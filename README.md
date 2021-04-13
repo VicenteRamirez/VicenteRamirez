@@ -23,7 +23,9 @@ These are some skills I have:
 
 ![GitHub Logo](https://github.com/VicenteRamirez/Assets_md/blob/main/Love%20Couple.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteRamirez&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteRamirez&hide=contribs,prs&theme=dracula)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteRamirez&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
