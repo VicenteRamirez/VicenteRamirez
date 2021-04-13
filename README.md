@@ -34,6 +34,7 @@ These are some skills I have:
 
 * Correo: vicente_rg@outlook.com
 
+![GitHub Logo](https://octodex.github.com/images/spidertocat.png)
 
 
 
